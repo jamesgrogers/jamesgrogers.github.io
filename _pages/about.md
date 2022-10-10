@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AEThER postdoctoral fellow at UCLA.
+subtitle: University of California, Los Angeles #AEThER postdoctoral fellow at UCLA.
 
 profile:
   align: right
@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a British astrophysicist working as an [AEThER](https://planets.carnegiescience.edu) postdoctoral fellow at UCLA.
-My research focusses on exoplanet formation and evolution, specifically the various processes that occur to planet's atmospheres.
+I am a British astrophysicist working as an [AEThER](https://planets.carnegiescience.edu) postdoctoral fellow at UCLA in the [Earth, Planetary and Space Sciences](https://epss.ucla.edu) department.
+
+My research is based on exoplanet formation and evolution, specifically the various processes that occur to highly irradiated planet atmospheres. I use statistical modelling as well as numerical simulations to rewind the clock on atmospheric evolution to 
+unveil the planet population at birth.
 
 If you interested in any of my work, please feel free to get in touch.

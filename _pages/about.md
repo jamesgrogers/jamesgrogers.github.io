@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: AEThER postdoctoral fellow at UCLA.
 
 profile:
   align: right
@@ -13,7 +13,12 @@ profile:
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
+
+I am a British astrophysicist working as an [AEThER](https://planets.carnegiescience.edu) postdoctoral fellow at UCLA.
+My research focusses on exoplanet formation and evolution, specifically the various processes that occur to planet's atmospheres.
+
+If you interested in any of my work, please feel free to get in touch.

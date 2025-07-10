@@ -21,8 +21,9 @@ social: true # includes social icons at the bottom of the page
 I am a [Kavli Institute](https://www.kicc.cam.ac.uk) Senior Research Fellow at the [Institute of Astronomy](https://www.ast.cam.ac.uk), University of Cambridge. Previously, I held a [NASA Postdoctoral Program](https://npp.orau.org/about/index.html) fellowship at UCLA, mentored by Hilke Schlichting. I attained my PhD from Imperial College London in 2022, supervised by James Owen.
 
 
-My research is based on exoplanet formation and evolution, specifically the various processes that occur to highly irradiated planets. I use numerical simulations and statistical modelling to rewind the clock on planet evolution. For more details, please see a list of my [publications](https://jamesgrogers.github.io/publications/) or my [CV](https://www.dropbox.com/s/8ejty4xxx8j5xbg/Curriculum_Vitae_JGR.pdf?dl=0)
+My research is based on exoplanet formation and evolution, specifically the various processes that occur to highly irradiated planets. I use numerical simulations and statistical modelling to rewind the clock on planet evolution. For more details, please see a list of my [publications](https://jamesgrogers.github.io/publications/) or my [CV](https://www.dropbox.com/s/8ejty4xxx8j5xbg/Curriculum_Vitae_JGR.pdf?dl=0). 
 
+You can also watch an invited [talk](https://www.youtube.com/watch?v=gp_T2p0mXbo&list=PL460A0YI_JsDGBxLas1c13wSrkWxk2Iic&index=75) I presented at "Know Thy Star, Know Thy Planet II" in Pasadena, February 2025.
 
 If you interested in any of my work, please feel free to get in touch.
 
